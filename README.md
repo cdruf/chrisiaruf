@@ -1,6 +1,6 @@
 # 💞️ Hi there 💞️
 
-I'm Christian Ruf - Operations Research Analyst based in Munich (Germany). 
+I'm Christian - Operations Research Analyst based in Munich (Germany). 
 
 👀 I’m interested in challenging optimization problems from all domains, convex optimization, optimization under uncertainty, and algorithms in general.
 
