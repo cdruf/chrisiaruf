@@ -1,6 +1,6 @@
 # 💞️ Hi there 💞️
 
-I'm Christian - Operations Research Analyst based in Munich (Germany). 
+I'm Christian - Operations Research Analyst based in Munich (Germany), and I am helping companies to improve their planning.
 
 👀 I’m interested in challenging optimization problems from all domains, convex optimization, optimization under uncertainty, and algorithms in general.
 
